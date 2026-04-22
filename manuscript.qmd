@@ -1,5 +1,5 @@
 ---
-[![DOI](https://sandbox.zenodo.org/badge/1217592237.svg)](https://handle.test.datacite.org/10.5072/zenodo.491781)
+[DOI](https://handle.test.datacite.org/10.5072/zenodo.491781)
 
 title: "Six Decades of Human Spaceflight: A Quantitative Analysis of Extravehicular Activity Conducted by NASA and Roscosmos"
 author:
