@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SpaceWalks
+message: 'If you use this software, please cite it as below.'
+type: dataset
+authors:
+  - given-names: Ilona
+    family-names: Sinn
+    email: is524@uowmail.edu.au
+    affiliation: University of Wollongong
+    orcid: 'https://orcid.org/0009-0007-4529-1752'
+identifiers:
+  - type: doi
+    value: 10.5072/zenodo.491781
+license: MIT
