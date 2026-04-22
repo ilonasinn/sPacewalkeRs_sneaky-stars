@@ -89,3 +89,4 @@ The dataset (`data/data.json`) contains one record per EVA with the following fi
 
 Source: [NASA spacewalk database](https://data.nasa.gov/dataset/extra-vehicular-activity-eva-us-and-russia/resource/1536313f-15d8-454f-9657-a4f66407886d)
 
+Data can be found [here](www.doi.org/10.5072/zenodo.491815)
