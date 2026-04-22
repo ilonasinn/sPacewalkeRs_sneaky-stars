@@ -1,3 +1,7 @@
+
+
+[![DOI](https://sandbox.zenodo.org/badge/1217592237.svg)](https://handle.test.datacite.org/10.5072/zenodo.491781)
+
 # NASA Spacewalk Analysis — Reproducible Manuscript
 
 This repository contains a reproducible manuscript analysing six decades of NASA and Roscosmos extravehicular activity (EVA) data. Analysis figures are generated from Python and R scripts on every push to `main`, and the rendered manuscript is deployed to GitHub Pages.
@@ -85,5 +89,3 @@ The dataset (`data/data.json`) contains one record per EVA with the following fi
 
 Source: [NASA spacewalk database](https://data.nasa.gov/dataset/extra-vehicular-activity-eva-us-and-russia/resource/1536313f-15d8-454f-9657-a4f66407886d)
 
-
-[![DOI](https://sandbox.zenodo.org/badge/1217592237.svg)](https://handle.test.datacite.org/10.5072/zenodo.491781)
